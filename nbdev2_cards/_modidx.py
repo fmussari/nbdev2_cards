@@ -34,4 +34,7 @@ d = { 'settings': { 'audience': 'Developers',
                                    'nbdev2_cards.card.suits': 'https://fmussari.github.io/nbdev2-cards/nbdev2_cards.card.html#suits'},
             'nbdev2_cards.core': {'nbdev2_cards.core.foo': 'https://fmussari.github.io/nbdev2-cards/nbdev2_cards.core.html#foo'},
             'nbdev2_cards.deck': { 'nbdev2_cards.deck.Deck': 'https://fmussari.github.io/nbdev2-cards/nbdev2_cards.deck.html#deck',
-                                   'nbdev2_cards.deck.Deck.pop': 'https://fmussari.github.io/nbdev2-cards/nbdev2_cards.deck.html#deck.pop'}}}
+                                   'nbdev2_cards.deck.Deck.pop': 'https://fmussari.github.io/nbdev2-cards/nbdev2_cards.deck.html#deck.pop',
+                                   'nbdev2_cards.deck.Deck.remove': 'https://fmussari.github.io/nbdev2-cards/nbdev2_cards.deck.html#deck.remove',
+                                   'nbdev2_cards.deck.Deck.shuffle': 'https://fmussari.github.io/nbdev2-cards/nbdev2_cards.deck.html#deck.shuffle',
+                                   'nbdev2_cards.deck.draw_n': 'https://fmussari.github.io/nbdev2-cards/nbdev2_cards.deck.html#draw_n'}}}
