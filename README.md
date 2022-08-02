@@ -38,7 +38,7 @@ I did it in WSL
 ### Publish
 
 This commands creates [card.py](nbdev2_cards/card.py) and
-[card.py](nbdev2_cards/card.py)
+[deck.py](nbdev2_cards/deck.py)
 
     (nbdev2) $ nbdev_export
     (nbdev2) $ pip install -e .
