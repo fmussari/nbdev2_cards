@@ -4,4 +4,3 @@ website:
       - index.ipynb
       - 00_cards.ipynb
       - 01_deck.ipynb
-      - README.md

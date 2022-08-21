@@ -5,18 +5,14 @@ nbdev2_cards demo (And nbdev 2.0 setup)
 
 > **With instruction of how I setup the nbdev 2.0 environment.**
 
-These notes are not supposed to be self explanatory. 
-They try to compliment what's in the video and tutorial.
+These notes are not supposed to be self explanatory.  
+They try to compliment what’s in the video and tutorial.
 
 ## References
 
 1.  Youtube: [nbdev tutorial – zero to published project in 90
     minutes](https://youtu.be/l7zS8Ld4_iA)
-2.  Tutorial (Broken): [nbdev tutorial](https://nbdev.fast.ai/tutorial.html)
-* The tutorial page was removed. Now there is a Hello World example and not the Cards tutorial.
-[End-to-end example](https://nbdev.fast.ai/01_Tutorials/tutorial.html)
-
-
+2.  Tutorial: [nbdev tutorial](https://nbdev.fast.ai/tutorial.html)
 3.  Repo: [fastai / nbdev](https://github.com/fastai/nbdev)
 4.  Fastai forum: [Nbdev v2
     launched](https://forums.fast.ai/t/nbdev-v2-launched/97821)
@@ -37,11 +33,9 @@ They try to compliment what's in the video and tutorial.
     (nbdev2) $ git clone git@github.com:fmussari/nbdev2_cards.git
     (nbdev2) $ cd nbdev2_cards
 
-### Create the project
+### Create a new project
 
     (nbdev2) $ nbdev_new
-
-This creates [settings.ini](settings.ini)
 
 ### Create the modules
 
@@ -76,7 +70,7 @@ also the path:
 ## How to use
 
 This lib provides a
-[Card](https://fmussari.github.io/nbdev2-cards/nbdev2_cards.card.html#card)class
+[`Card`](https://fmussari.github.io/nbdev2-cards/cards.html#card)class
 to create, display and compare playing cards.
 
 ``` python
