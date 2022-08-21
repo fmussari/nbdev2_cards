@@ -5,18 +5,26 @@ nbdev2_cards demo (And nbdev 2.0 setup)
 
 > **With instruction of how I setup the nbdev 2.0 environment.**
 
+These notes are not supposed to be self explanatory. 
+They try to compliment what's in the video and tutorial.
+
+
 ## References
 
 1.  Youtube: [nbdev tutorial – zero to published project in 90
     minutes](https://youtu.be/l7zS8Ld4_iA)
-2.  Tutorial: [nbdev tutorial](https://nbdev.fast.ai/tutorial.html)
-3.  Repo: [fastai / nbdev](https://github.com/fastai/nbdev)
-4.  Fastai forum: [Nbdev v2
+2.  Tutorial (Broken): [nbdev tutorial](https://nbdev.fast.ai/tutorial.html)
+* The tutorial page was removed. Now there is a Hello World example and not the Cards tutorial.
+[End-to-end example](https://nbdev.fast.ai/01_Tutorials/tutorial.html)
+
+
+1.  Repo: [fastai / nbdev](https://github.com/fastai/nbdev)
+2.  Fastai forum: [Nbdev v2
     launched](https://forums.fast.ai/t/nbdev-v2-launched/97821)
 
 ## Create the environment
 
-I did it in WSL
+**Using WSL:**
 
 ### To setup the environment:
 
@@ -29,6 +37,12 @@ I did it in WSL
 
     (nbdev2) $ git clone git@github.com:fmussari/nbdev2_cards.git
     (nbdev2) $ cd nbdev2_cards
+
+### Create the project
+
+    (nbdev2) $ nbdev_new
+
+This creates [settings.ini](settings.ini)
 
 ### Create the modules
 
