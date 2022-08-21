@@ -17,8 +17,8 @@ They try to compliment what's in the video and tutorial.
 [End-to-end example](https://nbdev.fast.ai/01_Tutorials/tutorial.html)
 
 
-1.  Repo: [fastai / nbdev](https://github.com/fastai/nbdev)
-2.  Fastai forum: [Nbdev v2
+3.  Repo: [fastai / nbdev](https://github.com/fastai/nbdev)
+4.  Fastai forum: [Nbdev v2
     launched](https://forums.fast.ai/t/nbdev-v2-launched/97821)
 
 ## Create the environment
