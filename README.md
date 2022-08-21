@@ -8,7 +8,6 @@ nbdev2_cards demo (And nbdev 2.0 setup)
 These notes are not supposed to be self explanatory. 
 They try to compliment what's in the video and tutorial.
 
-
 ## References
 
 1.  Youtube: [nbdev tutorial – zero to published project in 90
