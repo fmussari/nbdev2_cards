@@ -59,7 +59,7 @@ also the path:
     lib_name = nbdev2-cards
     lib_path = nbdev2_cards
 
-## Convert this file to `Readme.md`
+## Convert this file (`index.ipynb`) to `Readme.md`
 
     (nbdev2) $ nbdev_docs
 
