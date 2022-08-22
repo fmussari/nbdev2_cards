@@ -27,6 +27,7 @@ They try to compliment what’s in the video and tutorial.
     (base) $ mamba activate nbdev2
     (nbdev2) $ mamba install -c anaconda notebook
     (nbdev2) $ mamba install -c fastai nbdev
+    (nbdev2) $ nbdev_install_quarto
 
 ### Clone a basic github repo:
 
